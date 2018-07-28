@@ -1,0 +1,701 @@
+2018-07-24 23:28:32 INFO ShadersMod integration enabled
+2018-07-24 23:28:32 INFO Optifine CTM support is disabled
+2018-07-24 23:28:32 INFO Optifine custom color support is enabled
+2018-07-24 23:28:32 INFO IC2 support initialized
+2018-07-24 23:28:32 INFO BetterFoliage initialized
+2018-07-24 23:29:02 DEBUG CactusTextures: block state minecraft:cactus[age=0]
+2018-07-24 23:29:02 DEBUG CactusTextures:       class net.minecraft.block.BlockCactus matches net.minecraft.block.BlockCactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       model minecraft:models/block/cactus matches minecraft:block/cactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       textures [top=blocks/cactus_top, bottom=blocks/cactus_bottom, side=blocks/cactus_side]
+2018-07-24 23:29:02 DEBUG CactusTextures: block state minecraft:cactus[age=1]
+2018-07-24 23:29:02 DEBUG CactusTextures:       class net.minecraft.block.BlockCactus matches net.minecraft.block.BlockCactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       model minecraft:models/block/cactus matches minecraft:block/cactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       textures [top=blocks/cactus_top, bottom=blocks/cactus_bottom, side=blocks/cactus_side]
+2018-07-24 23:29:02 DEBUG CactusTextures: block state minecraft:cactus[age=2]
+2018-07-24 23:29:02 DEBUG CactusTextures:       class net.minecraft.block.BlockCactus matches net.minecraft.block.BlockCactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       model minecraft:models/block/cactus matches minecraft:block/cactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       textures [top=blocks/cactus_top, bottom=blocks/cactus_bottom, side=blocks/cactus_side]
+2018-07-24 23:29:02 DEBUG CactusTextures: block state minecraft:cactus[age=3]
+2018-07-24 23:29:02 DEBUG CactusTextures:       class net.minecraft.block.BlockCactus matches net.minecraft.block.BlockCactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       model minecraft:models/block/cactus matches minecraft:block/cactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       textures [top=blocks/cactus_top, bottom=blocks/cactus_bottom, side=blocks/cactus_side]
+2018-07-24 23:29:02 DEBUG CactusTextures: block state minecraft:cactus[age=4]
+2018-07-24 23:29:02 DEBUG CactusTextures:       class net.minecraft.block.BlockCactus matches net.minecraft.block.BlockCactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       model minecraft:models/block/cactus matches minecraft:block/cactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       textures [top=blocks/cactus_top, bottom=blocks/cactus_bottom, side=blocks/cactus_side]
+2018-07-24 23:29:02 DEBUG CactusTextures: block state minecraft:cactus[age=5]
+2018-07-24 23:29:02 DEBUG CactusTextures:       class net.minecraft.block.BlockCactus matches net.minecraft.block.BlockCactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       model minecraft:models/block/cactus matches minecraft:block/cactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       textures [top=blocks/cactus_top, bottom=blocks/cactus_bottom, side=blocks/cactus_side]
+2018-07-24 23:29:02 DEBUG CactusTextures: block state minecraft:cactus[age=6]
+2018-07-24 23:29:02 DEBUG CactusTextures:       class net.minecraft.block.BlockCactus matches net.minecraft.block.BlockCactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       model minecraft:models/block/cactus matches minecraft:block/cactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       textures [top=blocks/cactus_top, bottom=blocks/cactus_bottom, side=blocks/cactus_side]
+2018-07-24 23:29:02 DEBUG CactusTextures: block state minecraft:cactus[age=7]
+2018-07-24 23:29:02 DEBUG CactusTextures:       class net.minecraft.block.BlockCactus matches net.minecraft.block.BlockCactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       model minecraft:models/block/cactus matches minecraft:block/cactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       textures [top=blocks/cactus_top, bottom=blocks/cactus_bottom, side=blocks/cactus_side]
+2018-07-24 23:29:02 DEBUG CactusTextures: block state minecraft:cactus[age=8]
+2018-07-24 23:29:02 DEBUG CactusTextures:       class net.minecraft.block.BlockCactus matches net.minecraft.block.BlockCactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       model minecraft:models/block/cactus matches minecraft:block/cactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       textures [top=blocks/cactus_top, bottom=blocks/cactus_bottom, side=blocks/cactus_side]
+2018-07-24 23:29:02 DEBUG CactusTextures: block state minecraft:cactus[age=9]
+2018-07-24 23:29:02 DEBUG CactusTextures:       class net.minecraft.block.BlockCactus matches net.minecraft.block.BlockCactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       model minecraft:models/block/cactus matches minecraft:block/cactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       textures [top=blocks/cactus_top, bottom=blocks/cactus_bottom, side=blocks/cactus_side]
+2018-07-24 23:29:02 DEBUG CactusTextures: block state minecraft:cactus[age=10]
+2018-07-24 23:29:02 DEBUG CactusTextures:       class net.minecraft.block.BlockCactus matches net.minecraft.block.BlockCactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       model minecraft:models/block/cactus matches minecraft:block/cactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       textures [top=blocks/cactus_top, bottom=blocks/cactus_bottom, side=blocks/cactus_side]
+2018-07-24 23:29:02 DEBUG CactusTextures: block state minecraft:cactus[age=11]
+2018-07-24 23:29:02 DEBUG CactusTextures:       class net.minecraft.block.BlockCactus matches net.minecraft.block.BlockCactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       model minecraft:models/block/cactus matches minecraft:block/cactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       textures [top=blocks/cactus_top, bottom=blocks/cactus_bottom, side=blocks/cactus_side]
+2018-07-24 23:29:02 DEBUG CactusTextures: block state minecraft:cactus[age=12]
+2018-07-24 23:29:02 DEBUG CactusTextures:       class net.minecraft.block.BlockCactus matches net.minecraft.block.BlockCactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       model minecraft:models/block/cactus matches minecraft:block/cactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       textures [top=blocks/cactus_top, bottom=blocks/cactus_bottom, side=blocks/cactus_side]
+2018-07-24 23:29:02 DEBUG CactusTextures: block state minecraft:cactus[age=13]
+2018-07-24 23:29:02 DEBUG CactusTextures:       class net.minecraft.block.BlockCactus matches net.minecraft.block.BlockCactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       model minecraft:models/block/cactus matches minecraft:block/cactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       textures [top=blocks/cactus_top, bottom=blocks/cactus_bottom, side=blocks/cactus_side]
+2018-07-24 23:29:02 DEBUG CactusTextures: block state minecraft:cactus[age=14]
+2018-07-24 23:29:02 DEBUG CactusTextures:       class net.minecraft.block.BlockCactus matches net.minecraft.block.BlockCactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       model minecraft:models/block/cactus matches minecraft:block/cactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       textures [top=blocks/cactus_top, bottom=blocks/cactus_bottom, side=blocks/cactus_side]
+2018-07-24 23:29:02 DEBUG CactusTextures: block state minecraft:cactus[age=15]
+2018-07-24 23:29:02 DEBUG CactusTextures:       class net.minecraft.block.BlockCactus matches net.minecraft.block.BlockCactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       model minecraft:models/block/cactus matches minecraft:block/cactus
+2018-07-24 23:29:02 DEBUG CactusTextures:       textures [top=blocks/cactus_top, bottom=blocks/cactus_bottom, side=blocks/cactus_side]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state minecraft:leaves[check_decay=true,decayable=true,variant=oak]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class net.minecraft.block.BlockOldLeaf matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/oak_leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=blocks/leaves_oak]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state minecraft:leaves[check_decay=true,decayable=true,variant=spruce]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class net.minecraft.block.BlockOldLeaf matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/spruce_leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=blocks/leaves_spruce]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state minecraft:leaves[check_decay=true,decayable=true,variant=birch]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class net.minecraft.block.BlockOldLeaf matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/birch_leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=blocks/leaves_birch]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state minecraft:leaves[check_decay=true,decayable=true,variant=jungle]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class net.minecraft.block.BlockOldLeaf matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/jungle_leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=blocks/leaves_jungle]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state minecraft:leaves[check_decay=true,decayable=false,variant=oak]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class net.minecraft.block.BlockOldLeaf matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/oak_leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=blocks/leaves_oak]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state minecraft:leaves[check_decay=true,decayable=false,variant=spruce]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class net.minecraft.block.BlockOldLeaf matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/spruce_leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=blocks/leaves_spruce]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state minecraft:leaves[check_decay=true,decayable=false,variant=birch]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class net.minecraft.block.BlockOldLeaf matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/birch_leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=blocks/leaves_birch]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state minecraft:leaves[check_decay=true,decayable=false,variant=jungle]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class net.minecraft.block.BlockOldLeaf matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/jungle_leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=blocks/leaves_jungle]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state minecraft:leaves[check_decay=false,decayable=true,variant=oak]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class net.minecraft.block.BlockOldLeaf matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/oak_leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=blocks/leaves_oak]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state minecraft:leaves[check_decay=false,decayable=true,variant=spruce]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class net.minecraft.block.BlockOldLeaf matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/spruce_leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=blocks/leaves_spruce]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state minecraft:leaves[check_decay=false,decayable=true,variant=birch]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class net.minecraft.block.BlockOldLeaf matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/birch_leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=blocks/leaves_birch]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state minecraft:leaves[check_decay=false,decayable=true,variant=jungle]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class net.minecraft.block.BlockOldLeaf matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/jungle_leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=blocks/leaves_jungle]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state minecraft:leaves[check_decay=false,decayable=false,variant=oak]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class net.minecraft.block.BlockOldLeaf matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/oak_leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=blocks/leaves_oak]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state minecraft:leaves[check_decay=false,decayable=false,variant=spruce]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class net.minecraft.block.BlockOldLeaf matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/spruce_leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=blocks/leaves_spruce]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state minecraft:leaves[check_decay=false,decayable=false,variant=birch]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class net.minecraft.block.BlockOldLeaf matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/birch_leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=blocks/leaves_birch]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state minecraft:leaves[check_decay=false,decayable=false,variant=jungle]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class net.minecraft.block.BlockOldLeaf matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/jungle_leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=blocks/leaves_jungle]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state minecraft:leaves2[check_decay=true,decayable=true,variant=acacia]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class net.minecraft.block.BlockNewLeaf matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/acacia_leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=blocks/leaves_acacia]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state minecraft:leaves2[check_decay=true,decayable=true,variant=dark_oak]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class net.minecraft.block.BlockNewLeaf matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/dark_oak_leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=blocks/leaves_big_oak]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state minecraft:leaves2[check_decay=true,decayable=false,variant=acacia]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class net.minecraft.block.BlockNewLeaf matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/acacia_leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=blocks/leaves_acacia]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state minecraft:leaves2[check_decay=true,decayable=false,variant=dark_oak]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class net.minecraft.block.BlockNewLeaf matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/dark_oak_leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=blocks/leaves_big_oak]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state minecraft:leaves2[check_decay=false,decayable=true,variant=acacia]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class net.minecraft.block.BlockNewLeaf matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/acacia_leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=blocks/leaves_acacia]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state minecraft:leaves2[check_decay=false,decayable=true,variant=dark_oak]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class net.minecraft.block.BlockNewLeaf matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/dark_oak_leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=blocks/leaves_big_oak]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state minecraft:leaves2[check_decay=false,decayable=false,variant=acacia]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class net.minecraft.block.BlockNewLeaf matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/acacia_leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=blocks/leaves_acacia]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state minecraft:leaves2[check_decay=false,decayable=false,variant=dark_oak]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class net.minecraft.block.BlockNewLeaf matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/dark_oak_leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=blocks/leaves_big_oak]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state advancedrocketry:alienLeaves[check_decay=true,decayable=true]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class zmaster587.advancedRocketry.block.plant.BlockAlienLeaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model advancedrocketry:models/block/alienLeaves matches minecraft:block/cube_all
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=advancedrocketry:blocks/leaves_alien]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state advancedrocketry:alienLeaves[check_decay=true,decayable=false]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class zmaster587.advancedRocketry.block.plant.BlockAlienLeaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model advancedrocketry:models/block/alienLeaves matches minecraft:block/cube_all
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=advancedrocketry:blocks/leaves_alien]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state advancedrocketry:alienLeaves[check_decay=false,decayable=true]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class zmaster587.advancedRocketry.block.plant.BlockAlienLeaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model advancedrocketry:models/block/alienLeaves matches minecraft:block/cube_all
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=advancedrocketry:blocks/leaves_alien]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state advancedrocketry:alienLeaves[check_decay=false,decayable=false]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class zmaster587.advancedRocketry.block.plant.BlockAlienLeaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model advancedrocketry:models/block/alienLeaves matches minecraft:block/cube_all
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=advancedrocketry:blocks/leaves_alien]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state ic2:leaves[check_decay=true,decayable=true,type=rubber]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class ic2.core.block.Ic2Leaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/birch_leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=blocks/leaves_birch]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state ic2:leaves[check_decay=true,decayable=false,type=rubber]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class ic2.core.block.Ic2Leaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/birch_leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=blocks/leaves_birch]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state ic2:leaves[check_decay=false,decayable=true,type=rubber]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class ic2.core.block.Ic2Leaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/birch_leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=blocks/leaves_birch]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state ic2:leaves[check_decay=false,decayable=false,type=rubber]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class ic2.core.block.Ic2Leaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/birch_leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=blocks/leaves_birch]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state tconstruct:slime_leaves[check_decay=true,decayable=true,foliage=blue]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class slimeknights.tconstruct.world.block.BlockSlimeLeaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=tconstruct:blocks/slime/slimeleaves]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state tconstruct:slime_leaves[check_decay=true,decayable=true,foliage=purple]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class slimeknights.tconstruct.world.block.BlockSlimeLeaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=tconstruct:blocks/slime/slimeleaves]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state tconstruct:slime_leaves[check_decay=true,decayable=true,foliage=orange]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class slimeknights.tconstruct.world.block.BlockSlimeLeaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=tconstruct:blocks/slime/slimeleaves]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state tconstruct:slime_leaves[check_decay=true,decayable=false,foliage=blue]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class slimeknights.tconstruct.world.block.BlockSlimeLeaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=tconstruct:blocks/slime/slimeleaves]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state tconstruct:slime_leaves[check_decay=true,decayable=false,foliage=purple]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class slimeknights.tconstruct.world.block.BlockSlimeLeaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=tconstruct:blocks/slime/slimeleaves]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state tconstruct:slime_leaves[check_decay=true,decayable=false,foliage=orange]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class slimeknights.tconstruct.world.block.BlockSlimeLeaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=tconstruct:blocks/slime/slimeleaves]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state tconstruct:slime_leaves[check_decay=false,decayable=true,foliage=blue]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class slimeknights.tconstruct.world.block.BlockSlimeLeaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=tconstruct:blocks/slime/slimeleaves]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state tconstruct:slime_leaves[check_decay=false,decayable=true,foliage=purple]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class slimeknights.tconstruct.world.block.BlockSlimeLeaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=tconstruct:blocks/slime/slimeleaves]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state tconstruct:slime_leaves[check_decay=false,decayable=true,foliage=orange]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class slimeknights.tconstruct.world.block.BlockSlimeLeaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=tconstruct:blocks/slime/slimeleaves]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state tconstruct:slime_leaves[check_decay=false,decayable=false,foliage=blue]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class slimeknights.tconstruct.world.block.BlockSlimeLeaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=tconstruct:blocks/slime/slimeleaves]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state tconstruct:slime_leaves[check_decay=false,decayable=false,foliage=purple]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class slimeknights.tconstruct.world.block.BlockSlimeLeaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=tconstruct:blocks/slime/slimeleaves]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state tconstruct:slime_leaves[check_decay=false,decayable=false,foliage=orange]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class slimeknights.tconstruct.world.block.BlockSlimeLeaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=tconstruct:blocks/slime/slimeleaves]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state roots:leavesWildwood[check_decay=true,decayable=true]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class elucent.roots.block.BlockRootsLeaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model roots:models/block/leavesWildwood matches minecraft:block/cube_all
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=roots:blocks/leavesWildwood]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state roots:leavesWildwood[check_decay=true,decayable=false]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class elucent.roots.block.BlockRootsLeaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model roots:models/block/leavesWildwood matches minecraft:block/cube_all
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=roots:blocks/leavesWildwood]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state roots:leavesWildwood[check_decay=false,decayable=true]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class elucent.roots.block.BlockRootsLeaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model roots:models/block/leavesWildwood matches minecraft:block/cube_all
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=roots:blocks/leavesWildwood]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state roots:leavesWildwood[check_decay=false,decayable=false]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class elucent.roots.block.BlockRootsLeaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model roots:models/block/leavesWildwood matches minecraft:block/cube_all
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=roots:blocks/leavesWildwood]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state roots:leavesElderpine[check_decay=true,decayable=true]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class elucent.roots.block.BlockRootsLeaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model roots:models/block/leavesElderpine matches minecraft:block/cube_all
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=roots:blocks/leavesElderpine]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state roots:leavesElderpine[check_decay=true,decayable=false]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class elucent.roots.block.BlockRootsLeaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model roots:models/block/leavesElderpine matches minecraft:block/cube_all
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=roots:blocks/leavesElderpine]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state roots:leavesElderpine[check_decay=false,decayable=true]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class elucent.roots.block.BlockRootsLeaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model roots:models/block/leavesElderpine matches minecraft:block/cube_all
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=roots:blocks/leavesElderpine]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state roots:leavesElderpine[check_decay=false,decayable=false]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class elucent.roots.block.BlockRootsLeaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model roots:models/block/leavesElderpine matches minecraft:block/cube_all
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=roots:blocks/leavesElderpine]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state roots:leavesAzurepine[check_decay=true,decayable=true]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class elucent.roots.block.BlockRootsLeaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model roots:models/block/leavesAzurepine matches minecraft:block/cube_all
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=roots:blocks/leavesAzurepine]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state roots:leavesAzurepine[check_decay=true,decayable=false]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class elucent.roots.block.BlockRootsLeaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model roots:models/block/leavesAzurepine matches minecraft:block/cube_all
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=roots:blocks/leavesAzurepine]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state roots:leavesAzurepine[check_decay=false,decayable=true]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class elucent.roots.block.BlockRootsLeaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model roots:models/block/leavesAzurepine matches minecraft:block/cube_all
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=roots:blocks/leavesAzurepine]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state roots:leavesAzurepine[check_decay=false,decayable=false]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class elucent.roots.block.BlockRootsLeaves matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model roots:models/block/leavesAzurepine matches minecraft:block/cube_all
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=roots:blocks/leavesAzurepine]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state thaumcraft:leaf[check_decay=true,decayable=true,type=greatwood]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class thaumcraft.common.blocks.world.plants.BlockLeavesTC matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=thaumcraft:blocks/greatwood_leaves]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state thaumcraft:leaf[check_decay=true,decayable=true,type=silverwood]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class thaumcraft.common.blocks.world.plants.BlockLeavesTC matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=thaumcraft:blocks/silverwood_leaves]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state thaumcraft:leaf[check_decay=true,decayable=false,type=greatwood]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class thaumcraft.common.blocks.world.plants.BlockLeavesTC matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=thaumcraft:blocks/greatwood_leaves]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state thaumcraft:leaf[check_decay=true,decayable=false,type=silverwood]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class thaumcraft.common.blocks.world.plants.BlockLeavesTC matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=thaumcraft:blocks/silverwood_leaves]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state thaumcraft:leaf[check_decay=false,decayable=true,type=greatwood]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class thaumcraft.common.blocks.world.plants.BlockLeavesTC matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=thaumcraft:blocks/greatwood_leaves]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state thaumcraft:leaf[check_decay=false,decayable=true,type=silverwood]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class thaumcraft.common.blocks.world.plants.BlockLeavesTC matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=thaumcraft:blocks/silverwood_leaves]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state thaumcraft:leaf[check_decay=false,decayable=false,type=greatwood]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class thaumcraft.common.blocks.world.plants.BlockLeavesTC matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=thaumcraft:blocks/greatwood_leaves]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport: block state thaumcraft:leaf[check_decay=false,decayable=false,type=silverwood]
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       class thaumcraft.common.blocks.world.plants.BlockLeavesTC matches net.minecraft.block.BlockLeaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       model minecraft:models/block/leaves matches minecraft:block/leaves
+2018-07-24 23:29:03 DEBUG StandardLeafSupport:       textures [all=thaumcraft:blocks/silverwood_leaves]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state minecraft:grass[snowy=true]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class net.minecraft.block.BlockGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       model minecraft:models/block/grass_snowed matches minecraft:block/cube_bottom_top
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       textures [top=blocks/grass_top]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state minecraft:grass[snowy=false]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class net.minecraft.block.BlockGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       model minecraft:models/block/grass_normal matches minecraft:block/grass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       textures [top=blocks/grass_top]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state tconstruct:slime_grass[foliage=blue,snowy=true,type=vanilla]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class slimeknights.tconstruct.world.block.BlockSlimeGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state tconstruct:slime_grass[foliage=blue,snowy=true,type=green]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class slimeknights.tconstruct.world.block.BlockSlimeGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state tconstruct:slime_grass[foliage=blue,snowy=true,type=blue]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class slimeknights.tconstruct.world.block.BlockSlimeGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state tconstruct:slime_grass[foliage=blue,snowy=true,type=purple]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class slimeknights.tconstruct.world.block.BlockSlimeGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state tconstruct:slime_grass[foliage=blue,snowy=true,type=magma]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class slimeknights.tconstruct.world.block.BlockSlimeGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state tconstruct:slime_grass[foliage=blue,snowy=false,type=vanilla]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class slimeknights.tconstruct.world.block.BlockSlimeGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       model minecraft:models/block/grass matches minecraft:block/grass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       textures [top=tconstruct:blocks/slime/slimegrass_top]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state tconstruct:slime_grass[foliage=blue,snowy=false,type=green]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class slimeknights.tconstruct.world.block.BlockSlimeGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       model minecraft:models/block/grass matches minecraft:block/grass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       textures [top=tconstruct:blocks/slime/slimegrass_top]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state tconstruct:slime_grass[foliage=blue,snowy=false,type=blue]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class slimeknights.tconstruct.world.block.BlockSlimeGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       model minecraft:models/block/grass matches minecraft:block/grass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       textures [top=tconstruct:blocks/slime/slimegrass_top]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state tconstruct:slime_grass[foliage=blue,snowy=false,type=purple]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class slimeknights.tconstruct.world.block.BlockSlimeGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       model minecraft:models/block/grass matches minecraft:block/grass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       textures [top=tconstruct:blocks/slime/slimegrass_top]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state tconstruct:slime_grass[foliage=blue,snowy=false,type=magma]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class slimeknights.tconstruct.world.block.BlockSlimeGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       model minecraft:models/block/grass matches minecraft:block/grass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       textures [top=tconstruct:blocks/slime/slimegrass_top]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state tconstruct:slime_grass[foliage=purple,snowy=true,type=vanilla]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class slimeknights.tconstruct.world.block.BlockSlimeGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state tconstruct:slime_grass[foliage=purple,snowy=true,type=green]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class slimeknights.tconstruct.world.block.BlockSlimeGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state tconstruct:slime_grass[foliage=purple,snowy=true,type=blue]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class slimeknights.tconstruct.world.block.BlockSlimeGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state tconstruct:slime_grass[foliage=purple,snowy=true,type=purple]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class slimeknights.tconstruct.world.block.BlockSlimeGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state tconstruct:slime_grass[foliage=purple,snowy=true,type=magma]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class slimeknights.tconstruct.world.block.BlockSlimeGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state tconstruct:slime_grass[foliage=purple,snowy=false,type=vanilla]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class slimeknights.tconstruct.world.block.BlockSlimeGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       model minecraft:models/block/grass matches minecraft:block/grass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       textures [top=tconstruct:blocks/slime/slimegrass_top]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state tconstruct:slime_grass[foliage=purple,snowy=false,type=green]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class slimeknights.tconstruct.world.block.BlockSlimeGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       model minecraft:models/block/grass matches minecraft:block/grass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       textures [top=tconstruct:blocks/slime/slimegrass_top]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state tconstruct:slime_grass[foliage=purple,snowy=false,type=blue]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class slimeknights.tconstruct.world.block.BlockSlimeGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       model minecraft:models/block/grass matches minecraft:block/grass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       textures [top=tconstruct:blocks/slime/slimegrass_top]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state tconstruct:slime_grass[foliage=purple,snowy=false,type=purple]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class slimeknights.tconstruct.world.block.BlockSlimeGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       model minecraft:models/block/grass matches minecraft:block/grass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       textures [top=tconstruct:blocks/slime/slimegrass_top]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state tconstruct:slime_grass[foliage=purple,snowy=false,type=magma]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class slimeknights.tconstruct.world.block.BlockSlimeGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       model minecraft:models/block/grass matches minecraft:block/grass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       textures [top=tconstruct:blocks/slime/slimegrass_top]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state tconstruct:slime_grass[foliage=orange,snowy=true,type=vanilla]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class slimeknights.tconstruct.world.block.BlockSlimeGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state tconstruct:slime_grass[foliage=orange,snowy=true,type=green]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class slimeknights.tconstruct.world.block.BlockSlimeGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state tconstruct:slime_grass[foliage=orange,snowy=true,type=blue]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class slimeknights.tconstruct.world.block.BlockSlimeGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state tconstruct:slime_grass[foliage=orange,snowy=true,type=purple]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class slimeknights.tconstruct.world.block.BlockSlimeGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state tconstruct:slime_grass[foliage=orange,snowy=true,type=magma]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class slimeknights.tconstruct.world.block.BlockSlimeGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state tconstruct:slime_grass[foliage=orange,snowy=false,type=vanilla]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class slimeknights.tconstruct.world.block.BlockSlimeGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       model minecraft:models/block/grass matches minecraft:block/grass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       textures [top=tconstruct:blocks/slime/slimegrass_top]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state tconstruct:slime_grass[foliage=orange,snowy=false,type=green]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class slimeknights.tconstruct.world.block.BlockSlimeGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       model minecraft:models/block/grass matches minecraft:block/grass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       textures [top=tconstruct:blocks/slime/slimegrass_top]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state tconstruct:slime_grass[foliage=orange,snowy=false,type=blue]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class slimeknights.tconstruct.world.block.BlockSlimeGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       model minecraft:models/block/grass matches minecraft:block/grass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       textures [top=tconstruct:blocks/slime/slimegrass_top]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state tconstruct:slime_grass[foliage=orange,snowy=false,type=purple]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class slimeknights.tconstruct.world.block.BlockSlimeGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       model minecraft:models/block/grass matches minecraft:block/grass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       textures [top=tconstruct:blocks/slime/slimegrass_top]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state tconstruct:slime_grass[foliage=orange,snowy=false,type=magma]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class slimeknights.tconstruct.world.block.BlockSlimeGrass matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       model minecraft:models/block/grass matches minecraft:block/grass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       textures [top=tconstruct:blocks/slime/slimegrass_top]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state thaumcraft:grass_ambient[snowy=true]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class thaumcraft.common.blocks.world.BlockGrassAmbient matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       model minecraft:models/block/grass_snowed matches minecraft:block/cube_bottom_top
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       textures [top=blocks/grass_top]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport: block state thaumcraft:grass_ambient[snowy=false]
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       class thaumcraft.common.blocks.world.BlockGrassAmbient matches net.minecraft.block.BlockGrass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       model minecraft:models/block/grass_normal matches minecraft:block/grass
+2018-07-24 23:29:03 DEBUG StandardGrassSupport:       textures [top=blocks/grass_top]
+2018-07-24 23:29:03 DEBUG IC2LogSupport: block state ic2:rubber_wood[state=plain_y]
+2018-07-24 23:29:03 DEBUG IC2LogSupport:             axis=y, end=ic2:blocks/resource/rubber_wood_bottomtop, side=ic2:blocks/resource/rubber_wood_sides
+2018-07-24 23:29:03 DEBUG IC2LogSupport: block state ic2:rubber_wood[state=plain_x]
+2018-07-24 23:29:03 DEBUG IC2LogSupport:             axis=x, end=ic2:blocks/resource/rubber_wood_bottomtop, side=ic2:blocks/resource/rubber_wood_sides
+2018-07-24 23:29:03 DEBUG IC2LogSupport: block state ic2:rubber_wood[state=plain_z]
+2018-07-24 23:29:03 DEBUG IC2LogSupport:             axis=z, end=ic2:blocks/resource/rubber_wood_bottomtop, side=ic2:blocks/resource/rubber_wood_sides
+2018-07-24 23:29:03 DEBUG IC2LogSupport: block state ic2:rubber_wood[state=dry_north]
+2018-07-24 23:29:03 DEBUG IC2LogSupport:             spotDir=north, up=ic2:blocks/resource/rubber_wood_dry_bottomtop, down=ic2:blocks/resource/rubber_wood_dry_bottomtop, side=ic2:blocks/resource/rubber_wood_dry_leftrightback, spot=ic2:blocks/resource/rubber_wood_dry_front
+2018-07-24 23:29:03 DEBUG IC2LogSupport: block state ic2:rubber_wood[state=dry_south]
+2018-07-24 23:29:03 DEBUG IC2LogSupport:             spotDir=south, up=ic2:blocks/resource/rubber_wood_dry_bottomtop, down=ic2:blocks/resource/rubber_wood_dry_bottomtop, side=ic2:blocks/resource/rubber_wood_dry_leftrightback, spot=ic2:blocks/resource/rubber_wood_dry_front
+2018-07-24 23:29:03 DEBUG IC2LogSupport: block state ic2:rubber_wood[state=dry_west]
+2018-07-24 23:29:03 DEBUG IC2LogSupport:             spotDir=west, up=ic2:blocks/resource/rubber_wood_dry_bottomtop, down=ic2:blocks/resource/rubber_wood_dry_bottomtop, side=ic2:blocks/resource/rubber_wood_dry_leftrightback, spot=ic2:blocks/resource/rubber_wood_dry_front
+2018-07-24 23:29:03 DEBUG IC2LogSupport: block state ic2:rubber_wood[state=dry_east]
+2018-07-24 23:29:03 DEBUG IC2LogSupport:             spotDir=east, up=ic2:blocks/resource/rubber_wood_dry_bottomtop, down=ic2:blocks/resource/rubber_wood_dry_bottomtop, side=ic2:blocks/resource/rubber_wood_dry_leftrightback, spot=ic2:blocks/resource/rubber_wood_dry_front
+2018-07-24 23:29:03 DEBUG IC2LogSupport: block state ic2:rubber_wood[state=wet_north]
+2018-07-24 23:29:03 DEBUG IC2LogSupport:             spotDir=north, up=ic2:blocks/resource/rubber_wood_wet_bottomtop, down=ic2:blocks/resource/rubber_wood_wet_bottomtop, side=ic2:blocks/resource/rubber_wood_wet_leftrightback, spot=ic2:blocks/resource/rubber_wood_wet_front
+2018-07-24 23:29:03 DEBUG IC2LogSupport: block state ic2:rubber_wood[state=wet_south]
+2018-07-24 23:29:03 DEBUG IC2LogSupport:             spotDir=south, up=ic2:blocks/resource/rubber_wood_wet_bottomtop, down=ic2:blocks/resource/rubber_wood_wet_bottomtop, side=ic2:blocks/resource/rubber_wood_wet_leftrightback, spot=ic2:blocks/resource/rubber_wood_wet_front
+2018-07-24 23:29:03 DEBUG IC2LogSupport: block state ic2:rubber_wood[state=wet_west]
+2018-07-24 23:29:03 DEBUG IC2LogSupport:             spotDir=west, up=ic2:blocks/resource/rubber_wood_wet_bottomtop, down=ic2:blocks/resource/rubber_wood_wet_bottomtop, side=ic2:blocks/resource/rubber_wood_wet_leftrightback, spot=ic2:blocks/resource/rubber_wood_wet_front
+2018-07-24 23:29:03 DEBUG IC2LogSupport: block state ic2:rubber_wood[state=wet_east]
+2018-07-24 23:29:03 DEBUG IC2LogSupport:             spotDir=east, up=ic2:blocks/resource/rubber_wood_wet_bottomtop, down=ic2:blocks/resource/rubber_wood_wet_bottomtop, side=ic2:blocks/resource/rubber_wood_wet_leftrightback, spot=ic2:blocks/resource/rubber_wood_wet_front
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state minecraft:log[axis=x,variant=oak]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class net.minecraft.block.BlockOldLog matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model minecraft:models/block/oak_log matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=blocks/log_oak_top, end=blocks/log_oak_top, side=blocks/log_oak]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state minecraft:log[axis=x,variant=spruce]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class net.minecraft.block.BlockOldLog matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model minecraft:models/block/spruce_log matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=blocks/log_spruce_top, end=blocks/log_spruce_top, side=blocks/log_spruce]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state minecraft:log[axis=x,variant=birch]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class net.minecraft.block.BlockOldLog matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model minecraft:models/block/birch_log matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=blocks/log_birch_top, end=blocks/log_birch_top, side=blocks/log_birch]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state minecraft:log[axis=x,variant=jungle]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class net.minecraft.block.BlockOldLog matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model minecraft:models/block/jungle_log matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=blocks/log_jungle_top, end=blocks/log_jungle_top, side=blocks/log_jungle]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state minecraft:log[axis=y,variant=oak]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class net.minecraft.block.BlockOldLog matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model minecraft:models/block/oak_log matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=blocks/log_oak_top, end=blocks/log_oak_top, side=blocks/log_oak]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state minecraft:log[axis=y,variant=spruce]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class net.minecraft.block.BlockOldLog matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model minecraft:models/block/spruce_log matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=blocks/log_spruce_top, end=blocks/log_spruce_top, side=blocks/log_spruce]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state minecraft:log[axis=y,variant=birch]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class net.minecraft.block.BlockOldLog matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model minecraft:models/block/birch_log matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=blocks/log_birch_top, end=blocks/log_birch_top, side=blocks/log_birch]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state minecraft:log[axis=y,variant=jungle]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class net.minecraft.block.BlockOldLog matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model minecraft:models/block/jungle_log matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=blocks/log_jungle_top, end=blocks/log_jungle_top, side=blocks/log_jungle]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state minecraft:log[axis=z,variant=oak]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class net.minecraft.block.BlockOldLog matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model minecraft:models/block/oak_log matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=blocks/log_oak_top, end=blocks/log_oak_top, side=blocks/log_oak]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state minecraft:log[axis=z,variant=spruce]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class net.minecraft.block.BlockOldLog matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model minecraft:models/block/spruce_log matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=blocks/log_spruce_top, end=blocks/log_spruce_top, side=blocks/log_spruce]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state minecraft:log[axis=z,variant=birch]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class net.minecraft.block.BlockOldLog matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model minecraft:models/block/birch_log matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=blocks/log_birch_top, end=blocks/log_birch_top, side=blocks/log_birch]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state minecraft:log[axis=z,variant=jungle]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class net.minecraft.block.BlockOldLog matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model minecraft:models/block/jungle_log matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=blocks/log_jungle_top, end=blocks/log_jungle_top, side=blocks/log_jungle]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state minecraft:log[axis=none,variant=oak]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class net.minecraft.block.BlockOldLog matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model minecraft:models/block/oak_bark matches minecraft:block/cube_all
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [all=blocks/log_oak, all=blocks/log_oak, all=blocks/log_oak]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state minecraft:log[axis=none,variant=spruce]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class net.minecraft.block.BlockOldLog matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model minecraft:models/block/spruce_bark matches minecraft:block/cube_all
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [all=blocks/log_spruce, all=blocks/log_spruce, all=blocks/log_spruce]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state minecraft:log[axis=none,variant=birch]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class net.minecraft.block.BlockOldLog matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model minecraft:models/block/birch_bark matches minecraft:block/cube_all
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [all=blocks/log_birch, all=blocks/log_birch, all=blocks/log_birch]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state minecraft:log[axis=none,variant=jungle]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class net.minecraft.block.BlockOldLog matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model minecraft:models/block/jungle_bark matches minecraft:block/cube_all
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [all=blocks/log_jungle, all=blocks/log_jungle, all=blocks/log_jungle]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state minecraft:log2[axis=x,variant=acacia]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class net.minecraft.block.BlockNewLog matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model minecraft:models/block/acacia_log matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=blocks/log_acacia_top, end=blocks/log_acacia_top, side=blocks/log_acacia]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state minecraft:log2[axis=x,variant=dark_oak]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class net.minecraft.block.BlockNewLog matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model minecraft:models/block/dark_oak_log matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=blocks/log_big_oak_top, end=blocks/log_big_oak_top, side=blocks/log_big_oak]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state minecraft:log2[axis=y,variant=acacia]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class net.minecraft.block.BlockNewLog matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model minecraft:models/block/acacia_log matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=blocks/log_acacia_top, end=blocks/log_acacia_top, side=blocks/log_acacia]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state minecraft:log2[axis=y,variant=dark_oak]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class net.minecraft.block.BlockNewLog matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model minecraft:models/block/dark_oak_log matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=blocks/log_big_oak_top, end=blocks/log_big_oak_top, side=blocks/log_big_oak]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state minecraft:log2[axis=z,variant=acacia]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class net.minecraft.block.BlockNewLog matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model minecraft:models/block/acacia_log matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=blocks/log_acacia_top, end=blocks/log_acacia_top, side=blocks/log_acacia]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state minecraft:log2[axis=z,variant=dark_oak]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class net.minecraft.block.BlockNewLog matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model minecraft:models/block/dark_oak_log matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=blocks/log_big_oak_top, end=blocks/log_big_oak_top, side=blocks/log_big_oak]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state minecraft:log2[axis=none,variant=acacia]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class net.minecraft.block.BlockNewLog matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model minecraft:models/block/acacia_bark matches minecraft:block/cube_all
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [all=blocks/log_acacia, all=blocks/log_acacia, all=blocks/log_acacia]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state minecraft:log2[axis=none,variant=dark_oak]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class net.minecraft.block.BlockNewLog matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model minecraft:models/block/dark_oak_bark matches minecraft:block/cube_all
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [all=blocks/log_big_oak, all=blocks/log_big_oak, all=blocks/log_big_oak]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state advancedrocketry:alienWood[axis=x]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class zmaster587.advancedRocketry.block.plant.BlockAlienWood matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model advancedrocketry:models/block/alien_log matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=advancedrocketry:blocks/log_blue_top, end=advancedrocketry:blocks/log_blue_top, side=advancedrocketry:blocks/log_blue]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state advancedrocketry:alienWood[axis=y]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class zmaster587.advancedRocketry.block.plant.BlockAlienWood matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model advancedrocketry:models/block/alien_log matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=advancedrocketry:blocks/log_blue_top, end=advancedrocketry:blocks/log_blue_top, side=advancedrocketry:blocks/log_blue]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state advancedrocketry:alienWood[axis=z]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class zmaster587.advancedRocketry.block.plant.BlockAlienWood matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model advancedrocketry:models/block/alien_log matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=advancedrocketry:blocks/log_blue_top, end=advancedrocketry:blocks/log_blue_top, side=advancedrocketry:blocks/log_blue]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state advancedrocketry:alienWood[axis=none]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class zmaster587.advancedRocketry.block.plant.BlockAlienWood matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model advancedrocketry:models/block/alien_bark matches minecraft:block/cube_all
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [all=advancedrocketry:blocks/log_blue, all=advancedrocketry:blocks/log_blue, all=advancedrocketry:blocks/log_blue]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state advancedrocketry:charcoalLog[axis=x]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class zmaster587.advancedRocketry.block.BlockCharcoalLog matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model advancedrocketry:models/block/charcoal_log matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=advancedrocketry:blocks/log_charcoal_top, end=advancedrocketry:blocks/log_charcoal_top, side=advancedrocketry:blocks/log_charcoal]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state advancedrocketry:charcoalLog[axis=y]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class zmaster587.advancedRocketry.block.BlockCharcoalLog matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model advancedrocketry:models/block/charcoal_log matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=advancedrocketry:blocks/log_charcoal_top, end=advancedrocketry:blocks/log_charcoal_top, side=advancedrocketry:blocks/log_charcoal]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state advancedrocketry:charcoalLog[axis=z]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class zmaster587.advancedRocketry.block.BlockCharcoalLog matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model advancedrocketry:models/block/charcoal_log matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=advancedrocketry:blocks/log_charcoal_top, end=advancedrocketry:blocks/log_charcoal_top, side=advancedrocketry:blocks/log_charcoal]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state advancedrocketry:charcoalLog[axis=none]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class zmaster587.advancedRocketry.block.BlockCharcoalLog matches net.minecraft.block.BlockLog
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model advancedrocketry:models/block/charcoal_bark matches minecraft:block/cube_all
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [all=advancedrocketry:blocks/log_charcoal, all=advancedrocketry:blocks/log_charcoal, all=advancedrocketry:blocks/log_charcoal]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state ic2:rubber_wood[state=plain_y]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class ic2.core.block.BlockRubWood matches ic2.core.block.BlockRubWood
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model ic2:models/block/resource/rubber_wood matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=ic2:blocks/resource/rubber_wood_bottomtop, end=ic2:blocks/resource/rubber_wood_bottomtop, side=ic2:blocks/resource/rubber_wood_sides]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state ic2:rubber_wood[state=plain_x]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class ic2.core.block.BlockRubWood matches ic2.core.block.BlockRubWood
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model ic2:models/block/resource/rubber_wood matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=ic2:blocks/resource/rubber_wood_bottomtop, end=ic2:blocks/resource/rubber_wood_bottomtop, side=ic2:blocks/resource/rubber_wood_sides]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state ic2:rubber_wood[state=plain_z]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class ic2.core.block.BlockRubWood matches ic2.core.block.BlockRubWood
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model ic2:models/block/resource/rubber_wood matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=ic2:blocks/resource/rubber_wood_bottomtop, end=ic2:blocks/resource/rubber_wood_bottomtop, side=ic2:blocks/resource/rubber_wood_sides]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state ic2:rubber_wood[state=dry_north]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class ic2.core.block.BlockRubWood matches ic2.core.block.BlockRubWood
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state ic2:rubber_wood[state=dry_south]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class ic2.core.block.BlockRubWood matches ic2.core.block.BlockRubWood
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state ic2:rubber_wood[state=dry_west]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class ic2.core.block.BlockRubWood matches ic2.core.block.BlockRubWood
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state ic2:rubber_wood[state=dry_east]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class ic2.core.block.BlockRubWood matches ic2.core.block.BlockRubWood
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state ic2:rubber_wood[state=wet_north]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class ic2.core.block.BlockRubWood matches ic2.core.block.BlockRubWood
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state ic2:rubber_wood[state=wet_south]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class ic2.core.block.BlockRubWood matches ic2.core.block.BlockRubWood
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state ic2:rubber_wood[state=wet_west]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class ic2.core.block.BlockRubWood matches ic2.core.block.BlockRubWood
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state ic2:rubber_wood[state=wet_east]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class ic2.core.block.BlockRubWood matches ic2.core.block.BlockRubWood
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state thaumcraft:log[axis=x,type=greatwood]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class thaumcraft.common.blocks.world.plants.BlockLogsTC matches thaumcraft.common.blocks.world.plants.BlockLogsTC
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model minecraft:models/block/cube_column matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=thaumcraft:blocks/log_greatwood_top, end=thaumcraft:blocks/log_greatwood_top, side=thaumcraft:blocks/log_greatwood]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state thaumcraft:log[axis=x,type=silverwood]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class thaumcraft.common.blocks.world.plants.BlockLogsTC matches thaumcraft.common.blocks.world.plants.BlockLogsTC
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model minecraft:models/block/cube_column matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=thaumcraft:blocks/log_silverwood_top, end=thaumcraft:blocks/log_silverwood_top, side=thaumcraft:blocks/log_silverwood]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state thaumcraft:log[axis=y,type=greatwood]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class thaumcraft.common.blocks.world.plants.BlockLogsTC matches thaumcraft.common.blocks.world.plants.BlockLogsTC
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model minecraft:models/block/cube_column matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=thaumcraft:blocks/log_greatwood_top, end=thaumcraft:blocks/log_greatwood_top, side=thaumcraft:blocks/log_greatwood]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state thaumcraft:log[axis=y,type=silverwood]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class thaumcraft.common.blocks.world.plants.BlockLogsTC matches thaumcraft.common.blocks.world.plants.BlockLogsTC
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model minecraft:models/block/cube_column matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=thaumcraft:blocks/log_silverwood_top, end=thaumcraft:blocks/log_silverwood_top, side=thaumcraft:blocks/log_silverwood]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state thaumcraft:log[axis=z,type=greatwood]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class thaumcraft.common.blocks.world.plants.BlockLogsTC matches thaumcraft.common.blocks.world.plants.BlockLogsTC
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model minecraft:models/block/cube_column matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=thaumcraft:blocks/log_greatwood_top, end=thaumcraft:blocks/log_greatwood_top, side=thaumcraft:blocks/log_greatwood]
+2018-07-24 23:29:04 DEBUG StandardLogSupport: block state thaumcraft:log[axis=z,type=silverwood]
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       class thaumcraft.common.blocks.world.plants.BlockLogsTC matches thaumcraft.common.blocks.world.plants.BlockLogsTC
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       model minecraft:models/block/cube_column matches minecraft:block/cube_column
+2018-07-24 23:29:04 DEBUG StandardLogSupport:       textures [end=thaumcraft:blocks/log_silverwood_top, end=thaumcraft:blocks/log_silverwood_top, side=thaumcraft:blocks/log_silverwood]
+2018-07-24 23:29:06 INFO Registered 5 grass textures
+2018-07-24 23:29:06 INFO Registered 2 snowed grass textures
+2018-07-24 23:29:06 INFO Registered 4 mycelium textures
+2018-07-24 23:29:06 INFO Registered 2 cactus arm textures
+2018-07-24 23:29:06 INFO Registered 3 lilypad root textures
+2018-07-24 23:29:06 INFO Registered 2 lilypad flower textures
+2018-07-24 23:29:07 INFO Registered 4 reed textures
+2018-07-24 23:29:07 INFO Registered 4 algae textures
+2018-07-24 23:29:07 INFO Registered 6 coral textures
+2018-07-24 23:29:07 INFO Registered 4 coral crust textures
+2018-07-24 23:29:07 INFO Registered 3 netherrack textures
+2018-07-24 23:29:07 INFO Registered 2 soul particle textures
+2018-07-24 23:29:07 DEBUG StandardLeafSupport: leaf texture   minecraft:blocks/leaves_oak
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      #variants 4
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      #states   4
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      particle default
+2018-07-24 23:29:07 DEBUG StandardLeafSupport: leaf texture   minecraft:blocks/leaves_spruce
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      #variants 4
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      #states   4
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      particle spruce
+2018-07-24 23:29:07 DEBUG StandardLeafSupport: leaf texture   minecraft:blocks/leaves_birch
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      #variants 8
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      #states   8
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      particle default
+2018-07-24 23:29:07 DEBUG StandardLeafSupport: leaf texture   minecraft:blocks/leaves_jungle
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      #variants 4
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      #states   4
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      particle jungle
+2018-07-24 23:29:07 DEBUG StandardLeafSupport: leaf texture   minecraft:blocks/leaves_acacia
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      #variants 4
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      #states   4
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      particle default
+2018-07-24 23:29:07 DEBUG StandardLeafSupport: leaf texture   minecraft:blocks/leaves_big_oak
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      #variants 4
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      #states   4
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      particle default
+2018-07-24 23:29:07 DEBUG StandardLeafSupport: leaf texture   advancedrocketry:blocks/leaves_alien
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      #variants 4
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      #states   4
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      particle default
+2018-07-24 23:29:07 DEBUG StandardLeafSupport: leaf texture   tconstruct:blocks/slime/slimeleaves
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      #variants 12
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      #states   12
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      particle default
+2018-07-24 23:29:07 DEBUG StandardLeafSupport: leaf texture   roots:blocks/leavesWildwood
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      #variants 4
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      #states   4
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      particle default
+2018-07-24 23:29:07 DEBUG StandardLeafSupport: leaf texture   roots:blocks/leavesElderpine
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      #variants 4
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      #states   4
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      particle default
+2018-07-24 23:29:07 DEBUG StandardLeafSupport: leaf texture   roots:blocks/leavesAzurepine
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      #variants 4
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      #states   4
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      particle default
+2018-07-24 23:29:07 DEBUG StandardLeafSupport: leaf texture   thaumcraft:blocks/greatwood_leaves
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      #variants 4
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      #states   4
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      particle default
+2018-07-24 23:29:07 DEBUG StandardLeafSupport: leaf texture   thaumcraft:blocks/silverwood_leaves
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      #variants 4
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      #states   4
+2018-07-24 23:29:07 DEBUG StandardLeafSupport:      particle default
+2018-07-24 23:29:07 DEBUG StandardGrassSupport: texture minecraft:blocks/grass_top
+2018-07-24 23:29:07 DEBUG StandardGrassSupport:         saturation 0.0 < 0.1, using block color
+2018-07-24 23:29:07 DEBUG StandardGrassSupport: texture tconstruct:blocks/slime/slimegrass_top
+2018-07-24 23:29:07 DEBUG StandardGrassSupport:         saturation 0.0 < 0.1, using block color

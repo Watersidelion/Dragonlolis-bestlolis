@@ -1,0 +1,131 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  weaponlib (mw-1.11.6_mc1.10.2.jar)
+  CCLCorePlugin (CodeChickenLib-1.10.2-2.5.9.320-universal.jar)
+  NEICorePlugin (NotEnoughItems-1.10.2-2.1.3.220-universal.jar)
+  LoadingPlugin (ResourceLoader-MC1.9.4-1.5.1.jar)
+  TransformerLoader (OpenComputers-MC1.10.2-1.7.2.170.jar)
+  BetterFoliageLoader (BetterFoliage-MC1.10.2-2.1.11.jar)
+Contact their authors BEFORE contacting forge
+
+// This is a token for 1 free hug. Redeem at your nearest Mojangsta: [~~HUG~~]
+
+Time: 7/12/18 12:22 PM
+Description: Exception in server tick loop
+
+java.lang.NoClassDefFoundError: noppes/npcs/controllers/QuestController
+	at bq_npc_integration.storage.NpcQuestDB.loadDatabase(NpcQuestDB.java:37)
+	at bq_npc_integration.storage.StorageHandler.onPlayerJoin(StorageHandler.java:37)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_78_StorageHandler_onPlayerJoin_PlayerLoggedInEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:185)
+	at net.minecraftforge.fml.common.FMLCommonHandler.firePlayerLoggedIn(FMLCommonHandler.java:565)
+	at net.minecraft.server.management.PlayerList.initializeConnectionToPlayer(PlayerList.java:228)
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.completeServerSideConnection(NetworkDispatcher.java:260)
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.access$100(NetworkDispatcher.java:73)
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher$1.func_73660_a(NetworkDispatcher.java:209)
+	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:287)
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:180)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:732)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:613)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:149)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:471)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.ClassNotFoundException: noppes.npcs.controllers.QuestController
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 17 more
+Caused by: java.lang.NullPointerException
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182)
+	... 19 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.10.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 645713464 bytes (615 MB) / 5074583552 bytes (4839 MB) up to 11453595648 bytes (10923 MB)
+	JVM Flags: 4 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx12288m -Xms256m -XX:PermSize=256m
+	IntCache: cache: 0, tcache: 0, allocated: 9, tallocated: 61
+	FML: MCP 9.32 Powered by Forge 12.18.3.2511 34 mods loaded, 34 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UCHIJAAAA	mcp{9.19} [Minecraft Coder Pack] (minecraft.jar) 
+	UCHIJAAAA	FML{8.0.99.99} [Forge Mod Loader] (forge-1.10.2-12.18.3.2511.jar) 
+	UCHIJAAAA	Forge{12.18.3.2511} [Minecraft Forge] (forge-1.10.2-12.18.3.2511.jar) 
+	UCHIJAAAA	NotEnoughItems{2.1.3.220} [Not Enough Items] (NotEnoughItems-1.10.2-2.1.3.220-universal.jar) 
+	UCHIJAAAA	OpenComputers|Core{1.7.2.170} [OpenComputers (Core)] (minecraft.jar) 
+	UCHIJAAAA	ccl-entityhook{1.0} [ccl-entityhook] (CodeChickenLib-1.10.2-2.5.9.320-universal.jar) 
+	UCHIJAAAA	craftstudioapi{0.3.0-beta} [CraftStudio API] (CraftStudioAPI-universal-0.3.0.87-mc1.10.2-beta.jar) 
+	UCHIJAAAA	animania{1.4.7} [Animania] (animania-1.10.2-1.4.8.jar) 
+	UCHIJAAAA	betterfoliage{2.1.11} [Better Foliage] (BetterFoliage-MC1.10.2-2.1.11.jar) 
+	UCHIJAAAA	betterquesting{2.3.234} [Better Questing] (BetterQuesting-2.3.234.jar) 
+	UCHIJAAAA	CodeChickenLib{2.5.9.320} [CodeChicken Lib] (CodeChickenLib-1.10.2-2.5.9.320-universal.jar) 
+	UCHIJAAAA	CodeChickenCore{2.4.1.102} [CodeChicken Core] (CodeChickenCore-1.10.2-2.4.1.102-universal.jar) 
+	UCHIJAAAA	cookingforblockheads{4.2.45} [Cooking for Blockheads] (CookingForBlockheads_1.10.2-4.2.45.jar) 
+	UCHIJAAAA	custommainmenu{2.0.5} [Custom Main Menu] (CustomMainMenu-MC1.10.2-2.0.5.jar) 
+	UCHIJAAAA	PTRModelLib{1.0.0} [PTRModelLib] (Decocraft-2.5.2_1.10.2.jar) 
+	UCHIJAAAA	props{2.5.2} [Decocraft] (Decocraft-2.5.2_1.10.2.jar) 
+	UCHIJAAAA	hempfarmer{1.7.4} [HempFarmer] (hempfarmer-1.10.2-1.7.4.jar) 
+	UCHIJAAAA	JEI{3.14.7.420} [Just Enough Items] (jei_1.10.2-3.14.7.420.jar) 
+	UCHIJAAAA	mantle{1.10.2-1.1.5.205} [Mantle] (Mantle-1.10.2-1.1.5.jar) 
+	UCHIJAAAA	tconstruct{1.10.2-2.6.5.10} [Tinkers' Construct] (TConstruct-1.10.2-2.6.5.jar) 
+	UCHIJAAAA	immersiveengineering{0.10-61} [Immersive Engineering] (ImmersiveEngineering-0.10-61.jar) 
+	UCHIJAAAA	inventorypets{1.5.2} [Inventory Pets] (inventorypets-1.10-1.5.2.jar) 
+	UCHIJAAAA	ironbackpacks{1.10.2-2.2.33} [Iron Backpacks] (IronBackpacks-1.10.2-2.2.33.jar) 
+	UCHIJAAAA	journeymap{1.10.2-5.5.2} [JourneyMap] (journeymap-1.10.2-5.5.2.jar) 
+	UCHIJAAAA	mw{1.11.5} [Modern Warfare] (mw-1.11.6_mc1.10.2.jar) 
+	UCHIJAAAA	bq_npc_integration{CI_MOD_VERSION} [NPC Integration] (NPCIntegration-2.3.22.jar) 
+	UCHIJAAAA	nuclearcraft{2.7c} [NuclearCraft] (NuclearCraft-2.7c--1.10.2.jar) 
+	UCHIJAAAA	OpenComputers{1.7.2.170} [OpenComputers] (OpenComputers-MC1.10.2-1.7.2.170.jar) 
+	UCHIJAAAA	harvestcraft{1.10.2j} [Pam's HarvestCraft] (Pam's HarvestCraft 1.10.2j.jar) 
+	UCHIJAAAA	railcraft{10.3.1} [Railcraft] (Railcraft_1.10.2-10.3.1.jar) 
+	UCHIJAAAA	ResourceLoader{1.5.1} [Resource Loader] (ResourceLoader-MC1.9.4-1.5.1.jar) 
+	UCHIJAAAA	RTG{4.1.3.0} [Realistic Terrain Generation] (RTG-1.10.2-4.1.3.0-FINAL.jar) 
+	UCHIJAAAA	bq_standard{2.3.131} [Standard Expansion] (StandardExpansion-2.3.131.jar) 
+	UCHIJAAAA	Waila{1.7.0} [Waila] (Waila-1.7.0-B3_1.9.4.jar) 
+	Loaded coremods (and transformers): 
+weaponlib (mw-1.11.6_mc1.10.2.jar)
+  com.vicmatskiv.weaponlib.core.WeaponlibClassTransformer
+CCLCorePlugin (CodeChickenLib-1.10.2-2.5.9.320-universal.jar)
+  codechicken.lib.asm.ClassHeirachyManager
+  codechicken.lib.asm.CCL_ASMTransformer
+NEICorePlugin (NotEnoughItems-1.10.2-2.1.3.220-universal.jar)
+  codechicken.nei.asm.NEITransformer
+LoadingPlugin (ResourceLoader-MC1.9.4-1.5.1.jar)
+  lumien.resourceloader.asm.ClassTransformer
+TransformerLoader (OpenComputers-MC1.10.2-1.7.2.170.jar)
+  li.cil.oc.common.asm.ClassTransformer
+BetterFoliageLoader (BetterFoliage-MC1.10.2-2.1.11.jar)
+  mods.betterfoliage.loader.BetterFoliageTransformer
+	GL info: ~~ERROR~~ RuntimeException: No OpenGL context found in the current thread.
+	Pulsar/tconstruct loaded Pulses: 
+		- TinkerCommons (Enabled/Forced)
+		- TinkerWorld (Enabled/Not Forced)
+		- TinkerTools (Enabled/Not Forced)
+		- TinkerHarvestTools (Enabled/Forced)
+		- TinkerMeleeWeapons (Enabled/Forced)
+		- TinkerRangedWeapons (Enabled/Forced)
+		- TinkerModifiers (Enabled/Forced)
+		- TinkerSmeltery (Enabled/Not Forced)
+		- TinkerGadgets (Enabled/Not Forced)
+		- TinkerOredict (Enabled/Forced)
+		- TinkerIntegration (Enabled/Forced)
+		- TinkerFluids (Enabled/Forced)
+		- TinkerMaterials (Enabled/Forced)
+		- TinkerModelRegister (Enabled/Forced)
+		- WailaIntegration (Enabled/Not Forced)
+
+	NotEnoughItems Invalid Fingerprint Reports: 
+	CodeChickenLib Invalid Fingerprint Reports: 
+	CodeChickenCore Invalid Fingerprint Reports: 
+	Profiler Position: N/A (disabled)
+	Player Count: 1 / 8; [EntityPlayerMP['watersidelion'/370, l='Dont crash', x=-45.50, y=68.00, z=443.50]]
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
